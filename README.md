@@ -1,22 +1,15 @@
-kdv-cli 
+web-cli 
 > 前端脚手架命令工具
-
-如何安装
-```
-npm install kdv-cli -g
-```
-
 
 初始化命令
 ```
-kdv-cli init <projectName>
-// 选择 mobile 或者 pc 的模版
+node ./bin/index.js init <projectName>
 
 或者
-kdv-cli  i <projectName>
+node ./bin/index.js  i <projectName>
 ```
 
 版本号查看
 ```
-kdv-cli -v
+node ./bin/index.js -v
 ```
