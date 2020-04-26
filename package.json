@@ -1,11 +1,11 @@
 {
-  "name": "kdv-cli",
+  "name": "web-cli",
   "version": "0.0.2",
   "main": "index.js",
   "author": "tree",
   "private": false,
   "bin": {
-    "kdv-cli": "./bin/index.js"
+    "web-cli": "./bin/index.js"
   },
   "dependencies": {
     "chalk": "^4.0.0",
